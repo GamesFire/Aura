@@ -1,7 +1,5 @@
 # Aura - Sticker Collection Platform
 
-## Overview
-
 This project is a web application for a platform called "Aura," designed for the trading and collection of crypto stickers. The platform provides users with features to buy stickers, participate in auctions, become creators of sticker collections, and stay updated with the latest news.
 
 ## DEMO Version
